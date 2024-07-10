@@ -15,7 +15,7 @@ class Program
 {
     static void Main()
     {
-        DaysOfWeek today = DaysOfWeek.Wednesday;
+        DaysOfWeek today = DaysOfWeek.Tuesday;
         Console.WriteLine($"Today is {today}");
     }
 }
